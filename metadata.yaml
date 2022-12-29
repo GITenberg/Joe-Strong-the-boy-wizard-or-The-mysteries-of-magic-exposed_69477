@@ -1,11 +1,16 @@
 _repo: Joe-Strong-the-boy-wizard-or-The-mysteries-of-magic-exposed_69477
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69477-h/images/cover.jpg
 creator:
   author:
     agent_name: Barnum, Vance
     gutenberg_agent_id: '3584'
     url: http://www.gutenberg.org/2009/agents/3584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69477#Joe-Strong-the-boy-wizard-or-The-mysteries-of-magic-exposed
 gutenberg_issued: '2022-12-04'
 identifiers:
   gutenberg: '69477'
